@@ -1,0 +1,29 @@
+{
+  "name": "nails-instagram",
+  "version": "0.1.0",
+  "description": "Instagram service for nails-framework",
+  "main": "index.js",
+  "dependencies": {
+    "instagram-node": "0.2.x"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nails-framework/nails-instagram"
+  },
+  "keywords": [
+    "nails",
+    "nails-framework",
+    "nails-plugin",
+    "instagram",
+    "service",
+    "api"
+  ],
+  "author": "James Wyse <james@jameswyse.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nails-framework/nails-instagram/issues"
+  },
+  "homepage": "https://github.com/nails-framework/nails-instagram"
+}
