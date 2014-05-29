@@ -8,6 +8,5 @@ exports.type = 'service';
 exports.register = function(app, options, next) {
   ig.use(options);
   app.service.register('instagram', ig);
-
   next();
 };
