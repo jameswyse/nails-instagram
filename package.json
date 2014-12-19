@@ -1,10 +1,10 @@
 {
   "name": "nails-instagram",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Instagram service for nails-framework",
   "main": "index.js",
   "dependencies": {
-    "instagram-node": "0.4.x"
+    "instagram-node": "^0.5.4"
   },
   "devDependencies": {},
   "scripts": {},
